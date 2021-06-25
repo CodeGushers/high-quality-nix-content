@@ -57,6 +57,13 @@
     githubId = 74963360;
   };
 
+  unrooted = {
+    email = "konrad.root.klawikowski@gmail.com";
+    github = "pl-misuw";
+    name = "pl-misuw";
+    githubId = 60584931;
+  };
+
   # Temp
   unknown = {
     name = "unknown author";
